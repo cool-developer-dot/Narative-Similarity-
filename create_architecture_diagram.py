@@ -1,6 +1,9 @@
 """
 Create architecture diagram for the LaTeX report
 Generates a visual representation of the proposed model
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import matplotlib.pyplot as plt

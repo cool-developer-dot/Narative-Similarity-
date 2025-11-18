@@ -1,6 +1,9 @@
 """
 Proposed Model: Hybrid Cross-Encoder with Contrastive Learning
 Advanced solution combining multiple techniques for improved performance
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import torch

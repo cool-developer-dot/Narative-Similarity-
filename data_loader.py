@@ -1,6 +1,9 @@
 """
 Data Loader for SemEval 2026 Semantic Textual Relatedness Task
 Handles loading and parsing of JSONL files for Track A and Track B
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import json

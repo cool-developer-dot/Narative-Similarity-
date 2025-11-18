@@ -1,6 +1,7 @@
 ================================================================================
                     HOW TO COMPILE YOUR LATEX REPORT
                           (3 Easy Methods)
+              National University of Sciences and Technology (NUST)
 ================================================================================
 
 You got this error because LaTeX is not installed on your Windows machine.

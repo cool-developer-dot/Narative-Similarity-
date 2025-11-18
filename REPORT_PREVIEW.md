@@ -2,6 +2,7 @@
 
 ## Hybrid Cross-Encoder with Contrastive Learning for Semantic Textual Relatedness
 
+**National University of Sciences and Technology (NUST)**  
 **CS-272: Artificial Intelligence - Semester Project**  
 **SemEval 2026 - Semantic Textual Relatedness**
 

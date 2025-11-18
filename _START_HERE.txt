@@ -3,6 +3,7 @@
 ║        ✅ ASSIGNMENT 3 - COMPLETE SOLUTION READY FOR SUBMISSION           ║
 ║                                                                            ║
 ║               CS-272: Artificial Intelligence - Semester Project           ║
+║         National University of Sciences and Technology (NUST)              ║
 ║                 SemEval 2026 - Semantic Textual Relatedness                ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝

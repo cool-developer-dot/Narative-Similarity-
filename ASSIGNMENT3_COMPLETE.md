@@ -1,8 +1,10 @@
 # ✅ Assignment 3 - Complete Solution Package
 
+**National University of Sciences and Technology (NUST)**
+
 ## 🎉 Congratulations! Your Assignment 3 is ready for submission!
 
-This package contains everything needed for **full marks** on Assignment 3 of CS-272: Artificial Intelligence.
+This package contains everything needed for **full marks** on Assignment 3 of CS-272: Artificial Intelligence at NUST.
 
 ---
 

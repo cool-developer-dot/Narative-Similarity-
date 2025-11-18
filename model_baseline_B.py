@@ -1,6 +1,9 @@
 """
 Baseline Model B: BERT-base Fine-tuning
 Transformer-based approach using pre-trained BERT
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import torch

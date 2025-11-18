@@ -1,6 +1,9 @@
 """
 Baseline Model C: Sentence-BERT (Bi-encoder)
 Uses pre-trained sentence transformers for semantic similarity
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import torch

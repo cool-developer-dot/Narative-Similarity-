@@ -1,6 +1,9 @@
 """
 Main experiment runner for Assignment 3
 Trains and evaluates all models, generates comparative results
+
+CS-272: Artificial Intelligence - Semester Project
+National University of Sciences and Technology (NUST)
 """
 
 import argparse

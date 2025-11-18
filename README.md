@@ -1,5 +1,8 @@
 # Assignment 3: Semantic Textual Relatedness - Proposed Solution
 
+**National University of Sciences and Technology (NUST)**  
+**CS-272: Artificial Intelligence - Semester Project**
+
 ## Project Overview
 This project implements an advanced solution for the **SemEval 2026 Semantic Textual Relatedness** task (Track A). Given an anchor text and two candidate texts, the model predicts which candidate is semantically closer to the anchor.
 
@@ -160,4 +163,9 @@ All plots are saved as PDF in `plots/` directory:
 
 ## License
 This project is for academic purposes (CS-272 Course Assignment).
+
+## University
+**National University of Sciences and Technology (NUST)**  
+Department of Computer Science  
+Islamabad, Pakistan
 

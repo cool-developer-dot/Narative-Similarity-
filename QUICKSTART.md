@@ -1,5 +1,8 @@
 # Quick Start Guide - Assignment 3
 
+**National University of Sciences and Technology (NUST)**  
+**CS-272: Artificial Intelligence**
+
 ## 📋 Prerequisites
 
 1. Python 3.8+

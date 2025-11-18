@@ -1,6 +1,9 @@
 """
 Evaluation and Visualization Script for Assignment 3
 Generates plots, confusion matrices, and comparative analysis
+
+CS-272: Artificial Intelligence - Semester Project
+National University of Sciences and Technology (NUST)
 """
 
 import argparse

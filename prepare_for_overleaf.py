@@ -1,6 +1,9 @@
 """
 Helper script to prepare files for Overleaf upload
 Creates a ZIP file with all necessary files for compiling the LaTeX report
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import os

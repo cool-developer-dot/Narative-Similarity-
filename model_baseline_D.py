@@ -2,6 +2,9 @@
 Baseline Model D: RoBERTa Fine-tuning
 Robustly Optimized BERT approach - more robust than BERT-base
 Represents Student 4's individual baseline contribution
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import torch

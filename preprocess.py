@@ -1,6 +1,9 @@
 """
 Preprocessing utilities for text data
 Includes cleaning, normalization, and augmentation
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import re

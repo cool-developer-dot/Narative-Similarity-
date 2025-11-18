@@ -1,6 +1,9 @@
 """
 Generate sample plots for demonstration
 Creates all required PDF plots in plots/ folder
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import matplotlib.pyplot as plt

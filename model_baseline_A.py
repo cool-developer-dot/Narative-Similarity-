@@ -1,6 +1,9 @@
 """
 Baseline Model A: TF-IDF + Logistic Regression
 Traditional approach using feature extraction and classical ML
+
+Assignment 3 - CS-272: Artificial Intelligence
+National University of Sciences and Technology (NUST)
 """
 
 import numpy as np

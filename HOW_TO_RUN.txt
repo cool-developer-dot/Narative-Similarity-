@@ -1,6 +1,7 @@
 ================================================================================
                    ASSIGNMENT 3 - QUICK START GUIDE
                    CS-272: Artificial Intelligence
+         National University of Sciences and Technology (NUST)
 ================================================================================
 
 ✅ ALL FILES CREATED AND READY!
