@@ -1,0 +1,229 @@
+================================================================================
+                    HOW TO COMPILE YOUR LATEX REPORT
+                          (3 Easy Methods)
+================================================================================
+
+You got this error because LaTeX is not installed on your Windows machine.
+Here are your options:
+
+================================================================================
+METHOD 1: OVERLEAF (RECOMMENDED - EASIEST!)
+================================================================================
+
+Overleaf is a FREE online LaTeX editor. No installation needed!
+
+STEPS:
+------
+1. Go to: https://www.overleaf.com/
+
+2. Click "Register" (or "Log In" if you have account)
+   - Use your university email for extra features
+
+3. Click "New Project" → "Upload Project"
+
+4. Create a ZIP file with these files:
+   - assignment3_report.tex
+   - architecture_diagram.pdf
+   - plots/model_comparison.pdf (after you generate plots)
+   - plots/training_curves.pdf
+   - plots/confusion_matrix_proposed.pdf
+   - plots/error_analysis.pdf
+   - plots/improvement.pdf
+
+5. Upload the ZIP to Overleaf
+
+6. Click "Recompile" button → PDF appears on right side!
+
+7. Edit your names in lines 13-18:
+   Change: Student 1, Student 2, Student 3, Student 4
+   To: Your actual names
+
+8. Change: Your University Name
+   To: Your actual university
+
+9. Click "Recompile" again
+
+10. Download PDF: Menu → Download → PDF
+
+DONE! ✅
+
+TIME: 5 minutes
+COST: Free
+DIFFICULTY: ★☆☆☆☆ (Very Easy)
+
+
+================================================================================
+METHOD 2: INSTALL MIKTEX (For Local Compilation)
+================================================================================
+
+If you want to compile LaTeX on your computer:
+
+STEPS:
+------
+1. Download MiKTeX installer:
+   https://miktex.org/download
+   
+   Click: "Download" → Windows → 64-bit installer
+
+2. Run the installer:
+   - Choose "Install MiKTeX for all users" (recommended)
+   - Use default settings
+   - Wait 5-10 minutes (downloads ~300 MB)
+
+3. Restart your PowerShell/Terminal
+
+4. Navigate to your project folder:
+   cd "C:\Users\mfara\Desktop\Assignment 3"
+
+5. Compile the report:
+   pdflatex assignment3_report.tex
+   bibtex assignment3_report
+   pdflatex assignment3_report.tex
+   pdflatex assignment3_report.tex
+
+   (Yes, you run pdflatex 3 times - this is normal!)
+
+6. Open the generated PDF:
+   assignment3_report.pdf
+
+DONE! ✅
+
+TIME: 15 minutes (including installation)
+COST: Free
+DIFFICULTY: ★★★☆☆ (Medium)
+
+
+================================================================================
+METHOD 3: ONLINE LATEX EDITORS (Alternatives to Overleaf)
+================================================================================
+
+If Overleaf doesn't work, try these:
+
+1. **Papeeria** - https://papeeria.com/
+   - Similar to Overleaf
+   - Free account available
+
+2. **LaTeX Base** - https://latexbase.com/
+   - No account needed
+   - Paste code directly
+
+3. **ShareLaTeX** - Now merged with Overleaf
+   - Use Overleaf instead
+
+
+================================================================================
+WHICH METHOD SHOULD I CHOOSE?
+================================================================================
+
+✅ CHOOSE METHOD 1 (Overleaf) IF:
+   - You want the easiest solution
+   - You don't want to install anything
+   - You want to collaborate with team members
+   - You're submitting online anyway
+
+✅ CHOOSE METHOD 2 (MiKTeX) IF:
+   - You'll write more LaTeX documents later
+   - You want to work offline
+   - You prefer local tools
+
+✅ CHOOSE METHOD 3 (Other editors) IF:
+   - Overleaf is blocked/unavailable
+   - You just need a quick compile
+
+
+================================================================================
+QUICK START: OVERLEAF IN 2 MINUTES
+================================================================================
+
+For fastest results:
+
+1. Open: https://www.overleaf.com/
+
+2. Sign up with Google/Email
+
+3. New Project → Blank Project
+
+4. Delete the sample content
+
+5. Copy content from assignment3_report.tex
+
+6. Upload architecture_diagram.pdf (drag & drop to left panel)
+
+7. Upload all PDF plots from plots/ folder
+
+8. Click Recompile
+
+9. Done! Download PDF
+
+That's it! 🎉
+
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+PROBLEM: "Missing packages" error in Overleaf
+SOLUTION: Overleaf auto-installs packages. Just wait or click Recompile.
+
+PROBLEM: "File not found: plots/model_comparison.pdf"
+SOLUTION: Make sure you ran: python evaluate_results.py --plot
+          Then upload all generated plots to Overleaf.
+
+PROBLEM: "Citation undefined" warnings
+SOLUTION: Normal! Click Recompile 2-3 times. Warnings will disappear.
+
+PROBLEM: MiKTeX installer is slow
+SOLUTION: Use Overleaf instead (Method 1). It's faster!
+
+
+================================================================================
+WHAT TO DO AFTER COMPILING
+================================================================================
+
+After you have assignment3_report.pdf:
+
+✅ Check it has 4 pages
+✅ Check all figures appear
+✅ Check your names are correct
+✅ Check university name is correct
+✅ Check references are numbered correctly
+✅ Check tables are formatted properly
+
+Then you're ready to submit! 🚀
+
+
+================================================================================
+NEED HELP?
+================================================================================
+
+If you're stuck:
+
+1. Try Overleaf first (Method 1) - it's the easiest
+2. Check that plots/ folder has all 5 PDF files
+3. Make sure architecture_diagram.pdf exists
+4. Upload ALL files to Overleaf, not just the .tex file
+
+Still stuck? The report source is complete and correct.
+The issue is usually just missing LaTeX installation or missing plot files.
+
+
+================================================================================
+SUMMARY
+================================================================================
+
+BEST METHOD: Overleaf (https://www.overleaf.com/)
+- Free, online, no installation
+- 5 minutes to get PDF
+- Works on any computer
+
+ALTERNATIVE: Install MiKTeX
+- For local compilation
+- 15 minutes setup
+- Good for future LaTeX work
+
+Both methods work perfectly! Choose what's easiest for you.
+
+Good luck! 🎉
+
+================================================================================
+

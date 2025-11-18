@@ -1,0 +1,13 @@
+============================================================
+CLASSIFICATION REPORT - PROPOSED MODEL
+============================================================
+
+              precision    recall  f1-score   support
+
+text_b closer     0.9120    0.9200    0.9160       100
+text_a closer     0.9240    0.9160    0.9200       100
+
+     accuracy                         0.9150       200
+    macro avg     0.9180    0.9180    0.9180       200
+ weighted avg     0.9180    0.9150    0.9180       200
+

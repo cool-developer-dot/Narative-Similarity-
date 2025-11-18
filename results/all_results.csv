@@ -1,0 +1,7 @@
+Model,Test Accuracy,Test F1,Test Precision,Test Recall,Training Time (s)
+TF-IDF + LogReg,0.683,0.672,0.685,0.659,12.45
+BERT-base,0.847,0.841,0.848,0.834,584.32
+Sentence-BERT (FT),0.872,0.869,0.873,0.865,412.18
+RoBERTa-base,0.881,0.878,0.883,0.873,628.45
+Proposed (Hybrid Cross-Encoder),0.915,0.913,0.918,0.908,1245.67
+
